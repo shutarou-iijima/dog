@@ -1,8 +1,5 @@
 # dog 
-wan wan
-
-[![Release](https://jitpack.io/v/User/Repo.svg)]
-(https://jitpack.io/#User/Repo)
+wan wan [![Release](https://jitpack.io/v/shutarou-iijima/dog.svg)](https://jitpack.io/#shutarou-iijima/dog)
 
 ## 概要
 [JitPack](https://jitpack.io/)のサンプル。
